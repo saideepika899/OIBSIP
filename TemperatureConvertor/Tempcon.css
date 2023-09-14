@@ -1,0 +1,55 @@
+.convertor{
+    width:250px;
+    height:250px;
+    border:5px solid blue;
+    padding:100px;
+    background-color: aliceblue;
+    border-radius: 10px; 
+    
+    
+
+}
+.temp{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:aliceblue;
+
+
+}
+.conbut{
+    
+      display:flex;
+      justify-content: center;
+      align-items: center;
+
+}
+.result{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#ta{
+    height: 50px;
+    width:300px;
+}
+textarea{
+    height:25px;
+    width:200px;
+}
+button{
+    background-color: blue;
+    color:white;
+    height:40px;
+    width:150px;
+
+}
+p{
+    font-size:18px;
+}
